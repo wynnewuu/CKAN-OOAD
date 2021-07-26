@@ -1,0 +1,89 @@
+DATASET: abbonamenti-alla-rai
+  RESOURCES:
+    Abbonamenti alla RAI
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?idind=430&info=d&fmt=csv
+    Numero di abbonati alla RAI
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?ntab=Sub_RAI_Abbonati&info=d&fmt=csv
+
+DATASET: abitazioni
+  RESOURCES:
+    Abitazioni
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?idind=133&info=d&fmt=csv
+    Numero di abitazioni
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?ntab=Sub_Numero_Abitazioni&info=d&fmt=csv
+
+DATASET: abitazioni-di-proprieta-di-enti-pubblici
+  RESOURCES:
+    Abitazioni di proprietà di enti pubblici
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?idind=653&info=d&fmt=csv
+    Numero di abitazioni di proprietà degli enti pubblici
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?ntab=Sub_Abitazioni_Enti_Pubblici&info=d&fmt=csv
+
+DATASET: abitazioni-di-proprieta-di-persona-fisica
+  RESOURCES:
+    Abitazioni di proprietà di persona fisica
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?idind=337&info=d&fmt=csv
+    Numero di abitazioni di proprietà di persona fisica
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?ntab=Sub_Abitazioni_Proprietà_Persona_Fisica&info=d&fmt=csv
+
+DATASET: abitazioni-di-proprieta-in-usufrutto-o-riscatto
+  RESOURCES:
+    Abitazioni di proprietà, in usufrutto o riscatto
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?idind=333&info=d&fmt=csv
+    Numero di abitazioni di proprietà, in usufrutto o riscatto
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?ntab=Sub_Abitazioni_in_Proprietà&info=d&fmt=csv
+
+DATASET: abitazioni-di-recente-costruzione
+  RESOURCES:
+    Abitazioni di recente costruzione
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?idind=330&info=d&fmt=csv
+    Numero di abitazioni costruite negli ultimi dieci anni
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?ntab=Sub_Abitazioni_Recenti&info=d&fmt=csv
+
+DATASET: abitazioni-in-affitto
+  RESOURCES:
+    Abitazioni in affitto
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?idind=334&info=d&fmt=csv
+    Numero di abitazioni in affitto
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?ntab=Sub_Abitazioni_in_Affitto&info=d&fmt=csv
+
+DATASET: abitazioni-non-occupate
+  RESOURCES:
+    Abitazioni non occupate
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?idind=317&info=d&fmt=csv
+    Numero abitazioni non occupate
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?ntab=Sub_Numero_Abitazioni_Non_Occupate&info=d&fmt=csv
+
+DATASET: abitazioni-non-occupate-utilizzabili-per-vacanza
+  RESOURCES:
+    Abitazioni non occupate utilizzabili per vacanza
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?idind=535&info=d&fmt=csv
+    Numero di abitazioni non occupate utilizzabile per vacanza
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?ntab=Sub_Numero_Abitazioni_Non_Occupate_Vacanza&info=d&fmt=csv
+
+DATASET: abitazioni-occupate
+  RESOURCES:
+    Abitazioni occupate
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?idind=134&info=d&fmt=csv
+    Numero di abitazioni occupate
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?ntab=Sub_Numero_Abitazioni_Occupate&info=d&fmt=csv

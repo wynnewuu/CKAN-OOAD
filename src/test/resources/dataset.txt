@@ -1,0 +1,8 @@
+DATASET: abbonamenti-alla-rai
+  RESOURCES:
+    Abbonamenti alla RAI
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?idind=430&info=d&fmt=csv
+    Numero di abbonati alla RAI
+    FORMAT: CSV
+       URL: http://www.statweb.provincia.tn.it/indicatoristrutturalisubpro/exp.aspx?ntab=Sub_RAI_Abbonati&info=d&fmt=csv
