@@ -1,0 +1,2 @@
+# windsor-data-documentation
+Some of the documentation you can find at this repository includes but is not limited to the Phase Plan, Use Case Diagram, and the Iteration Plan for Phase 2. We have also added documentation regarding the build for the Windsor Data Java API. This repository was especially helpful tracking documentation and giving team members access to them which proved fruitful when we needed to reference the documentation for our build or to keep track of requirements of the use case.
