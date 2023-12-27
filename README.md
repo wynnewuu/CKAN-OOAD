@@ -3,3 +3,4 @@ This repository is meant to hold all documentation for the Windsor open data por
 
                 
 ![Everything Is AWESOME](https://github.com/wynnewuu/CKAN-OOAD-Windsor-Open-Data-Portal/blob/main/mock_site.jpg?raw=true)
+![](https://github.com/wynnewuu/CKAN-OOAD-Windsor-Open-Data-Portal/blob/main/mock_site.jpg?raw=true)
